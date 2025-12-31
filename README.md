@@ -1,119 +1,97 @@
-# 👋 Hi, I'm Shibu Dhara
+<h1 align="center">Hi 👋, I'm Shibu Dhara</h1>
+<h3 align="center">Full-Stack Developer | React • Next.js • Express • PostgreSQL</h3>
 
-🚀 **Full-Stack Developer** | React.js • Next.js • Express.js • PostgreSQL  
-📍 Khirpai, West Bengal, India  
-🏆 *Promising Performer Award – 2024*
-
----
-
-## 👨‍💻 About Me
-
-I’m a **Full-Stack Developer with 1.5+ years of professional experience** building scalable, production-ready web applications using **React.js, Next.js (App Router), Express.js, and PostgreSQL**.
-
-I specialize in:
-- Admin dashboards & internal tools  
-- Dynamic form systems & real-time features  
-- AI-powered automation (content, SEO, video generation)  
-- Clean architecture, debugging, and reliable delivery  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;Next.js+App+Router+Expert;AI+Powered+Product+Automation;Clean+Code+%7C+Real+World+Solutions" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
+### 👨‍💻 About Me
 
-### Frontend
-- React.js, Next.js (App Router, Server Components, Server Actions)
-- TypeScript, Tailwind CSS
-- React Query
-
-### Backend
-- Node.js, Express.js
-- REST APIs
-
-### Database
-- PostgreSQL
-- Sequelize ORM
-
-### AI & Automation
-- Gemini API
-- Groq
-- OpenAI
-- Minimax Video API
-
-### Tools
-- Git, GitHub
-- Linux
-- PM2
-- Socket.io
-
-### Currently Learning
-- React Native (Building **FYNT** — an expense tracker app)
+- 🚀 Full-Stack Developer with **1.5+ years of experience**
+- ⚙️ Building production apps using **React, Next.js, Express & PostgreSQL**
+- 🤖 Experienced in **AI integrations** (Gemini, Groq, OpenAI, Minimax)
+- 🧠 Strong in **debugging, clean architecture & ownership**
+- 📱 Currently learning **React Native** (FYNT — expense tracker)
 
 ---
 
-## 💼 Experience
+### 🛠 Tech Stack
 
-### React.js / Next.js Developer  
-**Bluehorse Software Solutions Pvt. Ltd.**  
-*May 2024 – Present*
-
-- Built scalable frontend features and admin dashboards
-- Implemented backend APIs using Express & Next.js
-- Designed PostgreSQL schemas using Sequelize ORM
-- Integrated AI APIs for automation
-- Built real-time modules using Socket.io
-- Improved UX with React Query caching
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,postgres,ts,tailwind,git,linux" />
+</p>
 
 ---
 
-## 🚀 Projects
+### 💼 Experience
 
-### Creoo — Global Career Mentorship Platform
-**Tech:** Next.js, React, Express.js, PostgreSQL
+**React.js / Next.js Developer**  
+**Bluehorse Software Solutions Pvt. Ltd.** (May 2024 – Present)
 
+- Built admin dashboards & reusable UI components
+- Designed PostgreSQL schemas with Sequelize ORM
+- Integrated AI APIs to automate product content & SEO
+- Developed real-time features using Socket.io
+- Improved UX with React Query caching & error handling
+
+---
+
+### 🚀 Featured Projects
+
+#### 🔹 Creoo — Global Career Mentorship Platform
+**Tech:** Next.js, React, Express, PostgreSQL  
 - Led Admin Portal development
-- Managed mentors, students, and sessions
-- Built secure admin workflows
-- Designed scalable database models
+- Built mentor-student workflows & secure admin access
+- Designed scalable relational models
+
+#### 🔹 D2C Stories — Media & Marketplace Platform
+**Tech:** Next.js App Router, React Query, PostgreSQL, Socket.io  
+- Admin portal for content & brand management
+- Real-time chat system
+- Dynamic Typeform-like form builder
+
+#### 🔹 TezCommerce AI — AI Product Content Platform
+**Tech:** Next.js Full-Stack, Gemini, Groq, OpenAI  
+- AI-generated product content & SEO automation
+- Rule-based SEO scoring engine
+- AI video generation with background jobs
 
 ---
 
-### D2C Stories — Media & Marketplace Platform
-**Tech:** Next.js App Router, React Query, Express.js, PostgreSQL
+### 📊 GitHub Stats
 
-- Built Admin Portal
-- Implemented real-time chat using Socket.io
-- Created dynamic Typeform-like forms
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shibudhara11&show_icons=true&theme=tokyonight" />
+</p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shibudhara11&theme=tokyonight" />
+</p>
 
-### TezCommerce AI — AI Product Content Platform
-**Tech:** Next.js Fullstack, Gemini API, Groq, OpenAI
-
-- Automated product content & SEO
-- Built SEO scoring engine
-- Implemented AI video generation workflows
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibudhara11&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🎓 Education
+### 🏆 Achievements
 
-- **B.Tech in CSE**, BBIT MAKAUT — CGPA: 9.1  
-- **Diploma in CST**, Central Calcutta Polytechnic — CGPA: 7.2  
-
----
-
-## 🏆 Achievements
-
-- 🥇 Promising Performer Award — 2024
+- 🥇 **Promising Performer Award – 2024**
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
-- 🌍 Portfolio: https://shibudhara11.netlify.app  
-- 💼 LinkedIn: https://linkedin.com/in/shibudhara11  
-- 📧 Email: shibudhara11@gmail.com  
+<p align="center">
+  <a href="https://shibudhara11.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/shibudhara11"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:shibudhara11@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
